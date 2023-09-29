@@ -100,3 +100,4 @@ print(f"El factorial de {num} es {resultado}")
 
 # ejercicio 1000
 
+# ejercicio 2333
