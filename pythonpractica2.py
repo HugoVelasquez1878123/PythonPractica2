@@ -101,6 +101,14 @@ num = int(input("Ingrese un número entero no negativo: "))
 resultado = factorial(num)
 print(f"El factorial de {num} es {resultado}")
 
-# ejercicio 1000
+# EJERCICIO 9
 
-# ejercicio 2333
+texto = input("Introduzca una palabra o texto: ")
+
+vacio = ""
+
+for cadena in texto:
+    if cadena not in ['a', 'e', 'i', 'o', 'u']:
+        vacio +=cadena
+
+print(vacio)
