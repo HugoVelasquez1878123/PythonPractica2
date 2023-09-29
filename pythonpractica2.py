@@ -101,6 +101,7 @@ num = int(input("Ingrese un número entero no negativo: "))
 resultado = factorial(num)
 print(f"El factorial de {num} es {resultado}")
 
+
 # EJERCICIO 9
 
 texto = input("Introduzca una palabra o texto: ")
