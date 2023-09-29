@@ -47,6 +47,7 @@ print("Números ingresados:", num_ingresados)
 print("Cantidad de números pares:", len(num_pares))
 print("Cantidad de números impares:", len(num_impares))
 
+
 # EJERCICIO 4
 
 listado_alumnos = []
@@ -71,7 +72,9 @@ print(f"Se muestra el listado de los alumnos y sus notas:")
 for dic_alumnos in listado_alumnos:
     print(f"El alumno {dic_alumnos['Alumno']} tiene las siguientes notas: {dic_alumnos['Notas']}.")
 
+
 # EJERCICIO 5
+
 
 # EJERCICIO 6
 
