@@ -1,5 +1,6 @@
 # PC 2
 
+
 # EJERCICIO 1
 
 for num in range(1500, 2701):
@@ -48,6 +49,7 @@ print("Cantidad de números pares:", len(num_pares))
 print("Cantidad de números impares:", len(num_impares))
 
 
+
 # EJERCICIO 4
 
 listado_alumnos = []
@@ -73,7 +75,9 @@ for dic_alumnos in listado_alumnos:
     print(f"El alumno {dic_alumnos['Alumno']} tiene las siguientes notas: {dic_alumnos['Notas']}.")
 
 
+
 # EJERCICIO 5
+
 
 
 # EJERCICIO 6
@@ -88,6 +92,7 @@ while b < 50:
 
 
 # EJERCICIO 8
+
 def factorial(num):
     if num == 0:
         return 1
@@ -100,6 +105,7 @@ def factorial(num):
 num = int(input("Ingrese un número entero no negativo: "))
 resultado = factorial(num)
 print(f"El factorial de {num} es {resultado}")
+
 
 
 # EJERCICIO 9
